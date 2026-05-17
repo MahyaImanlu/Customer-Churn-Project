@@ -40,6 +40,7 @@ https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset?selec
 - Download the project files : download main.py from python folder and 01_database_setup.sql, 02_customer_churn_views.sql from sql folder.
 - Prepare the dataset: Download the dataset and place it in the project directory.
 - Run python file and SQl queries to process and transform the data.
+- For running python file with no error install dependencies : pip install pandas numpy sqlalchemy pymysql
 - Load data into PowerBI: Import the processed data from SQL into Power BI and finally load the data for visualization and analysis.
 
 ## 👨‍💻 Author
